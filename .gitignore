@@ -1,3 +1,8 @@
+draft.lyx
+draft.tex
+plain.tex
+.directory
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
