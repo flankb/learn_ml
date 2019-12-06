@@ -1,3 +1,3 @@
 #!/bin/bash
 
-jupyter-notebook linreg.ipynb
+jupyter-notebook
