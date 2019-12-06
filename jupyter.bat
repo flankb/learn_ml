@@ -1,1 +1,1 @@
-jupyter-notebook linreg.ipynb
+jupyter-notebook
